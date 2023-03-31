@@ -38,5 +38,5 @@ def test_caso1():
     f.Click_Mixto("Xpath", "//button[@class='Button'][contains(.,'5')]", t)
     f.Click_Mixto("Xpath", "//button[@class='Button'][contains(.,'=')]", t)
     result = f.SEX("//input[@class='DisplayText']").get_attribute("value")
-    assert result == "10"
+    assert result == "11"
 
