@@ -1,0 +1,4 @@
+Pagina abierta http://localhost/faefc3221188c0f1c520463a60c736e78708712fe86ade1d549694e0b8703772
+Dando click en el elemento //button[@class='Button'][contains(.,'5')]
+Dando click en el elemento //button[@id='add']
+Dando click en el elemento //button[@class='Button'][contains(.,'=')]
